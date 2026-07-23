@@ -127,6 +127,8 @@ print(f"Score = {model.coef_[0]:.4f} × Hours + {model.intercept_:.4f}")
 
 <img width="531" height="393" alt="image" src="https://github.com/user-attachments/assets/9f865aa4-4f15-4480-8aea-a80bf37d5e3b" />
 
+<img width="531" height="393" alt="image" src="https://github.com/user-attachments/assets/bdda7291-1e16-40db-b81b-f8e359f9a2f1" />
+
 <img width="656" height="267" alt="image" src="https://github.com/user-attachments/assets/98aa9b56-5200-4562-b202-a1db3a42a353" />
 
 
